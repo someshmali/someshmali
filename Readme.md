@@ -1,3 +1,4 @@
+![logo](https://github.com/someshmali/someshmali/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Somesh Mali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
